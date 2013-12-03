@@ -22,7 +22,11 @@
             <div class="span4 gv-story" id="gv-story-1" style="display:none;"></div>
             <div class="span4 gv-story" id="gv-story-2" style="display:none;"></div>
             <div class="span4 gv-story" id="gv-story-3" style="display:none;"></div>
-        </div>
+            <div class="span4 gv-story" id="gv-story-4" style="display:none;"></div>
+            <div class="span4 gv-story" id="gv-story-5" style="display:none;"></div>
+            <div class="span4 gv-story" id="gv-story-6" style="display:none;"></div>
+
+	</div>
         
         <div class="row" id="gv-footer">
             <div class="span12">
